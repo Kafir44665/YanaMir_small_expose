@@ -1,1 +1,1 @@
-# YanaMir_small_expose
+# YanaMir Expose (small)
